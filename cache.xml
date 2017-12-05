@@ -1,0 +1,194 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/home/parismita/AndroidStudioProjects/BOX2/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="3be78ebc2706b2e1fe2f12d5726887a92d6c183b">
+        <dex dex="/home/parismita/AndroidStudioProjects/BOX2/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_8f6f5e70851d53fcac1f580d4790d533b09fea43/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/parismita/.android/build-cache/c59047293c28b3de5c2958f1c7badc8b13d53f69/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="233f60a165ae622c8b36731502ebbda0f65e1930">
+        <dex dex="/home/parismita/AndroidStudioProjects/BOX2/app/build/intermediates/pre-dexed/debug/classes_7b9d8718c14fafbb38e460a9b87559b20d6a6506.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/parismita/.android/build-cache/3f10e78d65c20a2cc4872e71d419d00f77ffa8af/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="b62fdc4cfef174c1e456014195c83fa7de7dc041">
+        <dex dex="/home/parismita/AndroidStudioProjects/BOX2/app/build/intermediates/pre-dexed/debug/classes_2888440906f253ab3c27dc39a7594958dbcb43e7.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/parismita/.android/build-cache/a59fcc6fe131f540975f81c445d7be5f37fd0389/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="2442771a5590dd4eb4bce00c2e9dca9e22e4c963">
+        <dex dex="/home/parismita/AndroidStudioProjects/BOX2/app/build/intermediates/pre-dexed/debug/classes_88fd58064b85bf702473a2b07e1ab94baf265cab.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/parismita/Android/Sdk/extras/m2repository/com/android/support/constraint/constraint-layout-solver/1.0.2/constraint-layout-solver-1.0.2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="b9cd8fc6bd15cb915735d34535db30ece0c44603">
+        <dex dex="/home/parismita/AndroidStudioProjects/BOX2/app/build/intermediates/pre-dexed/debug/constraint-layout-solver-1.0.2_2d0df30c0a26da49a34e32a9e6f8d0f7ce463074.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/parismita/.android/build-cache/ee72a95ac16d1c375791554bf8637716db141e6e/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="508f50705b4fde51a16259f29c854201a3044516">
+        <dex dex="/home/parismita/AndroidStudioProjects/BOX2/app/build/intermediates/pre-dexed/debug/classes_f4aa36b591082c3168adfc02ecfd75130967e323.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/parismita/.gradle/caches/modules-2/files-2.1/android.arch.core/common/1.0.0/a2d487452376193fc8c103dd2b9bd5f2b1b44563/common-1.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="a2d487452376193fc8c103dd2b9bd5f2b1b44563">
+        <dex dex="/home/parismita/AndroidStudioProjects/BOX2/app/build/intermediates/pre-dexed/debug/common-1.0.0_0d1c15fb0be582e7327dc0fa9ec1dcb99b457914.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/parismita/.android/build-cache/fa2985359f47a626263097cb65a6fcac37f69f13/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="05bb648f6efbf447d5cc32d1535e662a9dc5d45d">
+        <dex dex="/home/parismita/AndroidStudioProjects/BOX2/app/build/intermediates/pre-dexed/debug/classes_175fb29c7a0e64445a992e29e0b9999095d67429.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/parismita/.android/build-cache/899ca26a00caa5ac0b80b486200b3776ea6acbdc/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="44ee06abb66da30f5855e6bf54574e64cdcd982a">
+        <dex dex="/home/parismita/AndroidStudioProjects/BOX2/app/build/intermediates/pre-dexed/debug/classes_5a075a54b4be406ee149717f5647d70080c84c86.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/parismita/.android/build-cache/f768aece9af6bfef3443996de4ccf6736a2e88f9/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="6f4138a4e065826cb044d49faea4cfd7191773d1">
+        <dex dex="/home/parismita/AndroidStudioProjects/BOX2/app/build/intermediates/pre-dexed/debug/classes_a0b744c100af26823d44e4121fc41e5bcfa34504.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/parismita/.android/build-cache/9c2196c1912af5fed40362dc5cfad8708b2d9cbb/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="f428e2fbc9ed0b297e3a3f420e51e6982f66822d">
+        <dex dex="/home/parismita/AndroidStudioProjects/BOX2/app/build/intermediates/pre-dexed/debug/classes_1e91a0c1eee1a3a91bf92f2b6f6f3de6fd96ad8f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/parismita/.gradle/caches/modules-2/files-2.1/com.github.bumptech.glide/glide/3.4.0/82552712133e094bbb565289fb2bc2d2952ba551/glide-3.4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="82552712133e094bbb565289fb2bc2d2952ba551">
+        <dex dex="/home/parismita/AndroidStudioProjects/BOX2/app/build/intermediates/pre-dexed/debug/glide-3.4.0_aba1a55a71dfc90be3e8e35ba46919f74098d2d1.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/parismita/.android/build-cache/cebe1e2e1d757bd01873797aac5a23c919d79ab3/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/home/parismita/AndroidStudioProjects/BOX2/app/build/intermediates/pre-dexed/debug/classes_54a9da75ee3dc6faae16f1f05b8affff22574678.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/parismita/.android/build-cache/6e2a2c9ecf8545424cee612747488700e9d3224a/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="b12cd9c87c3dfb012a911b6e38d2444ed0a65e1f">
+        <dex dex="/home/parismita/AndroidStudioProjects/BOX2/app/build/intermediates/pre-dexed/debug/classes_3b0de6e17328abe887f3116bfb966213c3786f66.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/parismita/.android/build-cache/4c7127acb236120dded2d238864c69c3b1fd8b9a/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="40392f30a601db5675cdf18192aab013d6fee6ec">
+        <dex dex="/home/parismita/AndroidStudioProjects/BOX2/app/build/intermediates/pre-dexed/debug/classes_94ce7c017749397a3c4f7d0c9209daf0b3ef1ffd.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/parismita/.android/build-cache/334f339ccde1aee8d076084fb98d94016521e932/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="7efef32744ca4a436492d5cf28c08698cc2af256">
+        <dex dex="/home/parismita/AndroidStudioProjects/BOX2/app/build/intermediates/pre-dexed/debug/classes_9f979fd1d7550182a489579ba70f2d28c597e863.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/parismita/.android/build-cache/c448dac1e4a889246dfc11f71a979441e41bbf65/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="c034a63bfb92bf0f38a4cf613614de4e06b3ab9f">
+        <dex dex="/home/parismita/AndroidStudioProjects/BOX2/app/build/intermediates/pre-dexed/debug/classes_d6e93fd77e69f80e854f81c6ae5552a0f1197466.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/parismita/.gradle/caches/modules-2/files-2.1/com.android.support/support-annotations/26.1.0/814258103cf26a15fcc26ecce35f5b7d24b73f8/support-annotations-26.1.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="0814258103cf26a15fcc26ecce35f5b7d24b73f8">
+        <dex dex="/home/parismita/AndroidStudioProjects/BOX2/app/build/intermediates/pre-dexed/debug/support-annotations-26.1.0_0f2859ff72408ee40bfba9f4a249cc46552470b8.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/parismita/AndroidStudioProjects/BOX2/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="abfe9d992c81959af4c4716a430dd234a33b0bb9">
+        <dex dex="/home/parismita/AndroidStudioProjects/BOX2/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_61a961f95208be86594597889f446751c6bf8b83/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/parismita/.android/build-cache/bbd5aafefd5ce86622260d5118007fa97fab899d/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="f97cf85b0fe70d37a705111dafa6b1b418ea1650">
+        <dex dex="/home/parismita/AndroidStudioProjects/BOX2/app/build/intermediates/pre-dexed/debug/classes_1ebc24843e1ba4072f3343326396d78545f1dd48.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/parismita/.gradle/caches/modules-2/files-2.1/android.arch.lifecycle/common/1.0.0/e414a4cb28434e25c4f6aa71426eb20cf4874ae9/common-1.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="e414a4cb28434e25c4f6aa71426eb20cf4874ae9">
+        <dex dex="/home/parismita/AndroidStudioProjects/BOX2/app/build/intermediates/pre-dexed/debug/common-1.0.0_ba37d41a43cb72954eed487e182d34a2bbf505cb.jar" />
+    </item>
+
+</items>
