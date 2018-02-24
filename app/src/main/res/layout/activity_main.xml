@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:id="@+id/main_browse_fragment"
+    android:name="sagarmusa.box2.MainFragment"
+    tools:context=".MainActivity"
+    tools:deviceIds="tv"
+    tools:ignore="MergeRootFrame"
+    android:orientation="vertical"
+
+    android:weightSum="100">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="472dp"
+        android:orientation="horizontal"
+        android:padding="10dip"
+        android:weightSum="90">
+        <FrameLayout
+            android:layout_width="300dp"
+            android:padding="5dip"
+            android:layout_height="match_parent"
+            android:layout_weight="90.09">
+
+            <VideoView
+                android:layout_width="match_parent"
+                android:layout_height="690dp"
+                android:layout_centerInParent="true"
+                android:layout_gravity="top"
+                android:id="@+id/video1"
+                android:layout_weight="94.81">
+            </VideoView>
+            <WebView
+                android:layout_width="match_parent"
+                android:layout_height="180dp"
+                android:adjustViewBounds="true"
+                android:layout_centerInParent="true"
+                android:layout_gravity="bottom"
+                android:scaleType="fitCenter"
+
+                android:id="@+id/web2"
+                android:layout_weight="0.5">
+
+            </WebView>
+        </FrameLayout>
+        <LinearLayout
+            android:layout_width="500dp"
+            android:layout_height="match_parent"
+            android:padding="5dip"
+            android:orientation="vertical">
+            <WebView
+                android:layout_width="match_parent"
+                android:layout_height="0dp"
+                android:adjustViewBounds="true"
+                android:layout_centerInParent="true"
+                android:scaleType="fitCenter"
+                android:id="@+id/web1"
+                android:layout_weight="0.86"
+                android:focusable="true"
+                android:focusableInTouchMode="true">
+
+            </WebView>
+        </LinearLayout>
+
+    </LinearLayout>
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="200dp"
+        android:orientation="vertical"
+        android:padding="5dip"
+        android:weightSum="10">
+        <WebView
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:id="@+id/web3"
+            android:text="sagar kalita">
+
+        </WebView>
+    </LinearLayout>
+</LinearLayout>
