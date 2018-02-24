@@ -1,0 +1,151 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /home/parismita/AndroidStudioProjects/BOX2/app/src/main/AndroidManifest.xml:2:1-41:12
+	package
+		ADDED from /home/parismita/AndroidStudioProjects/BOX2/app/src/main/AndroidManifest.xml:3:5-29
+		INJECTED from /home/parismita/AndroidStudioProjects/BOX2/app/src/main/AndroidManifest.xml
+		INJECTED from /home/parismita/AndroidStudioProjects/BOX2/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /home/parismita/AndroidStudioProjects/BOX2/app/src/main/AndroidManifest.xml
+		INJECTED from /home/parismita/AndroidStudioProjects/BOX2/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /home/parismita/AndroidStudioProjects/BOX2/app/src/main/AndroidManifest.xml:2:11-69
+	android:versionCode
+		INJECTED from /home/parismita/AndroidStudioProjects/BOX2/app/src/main/AndroidManifest.xml
+		INJECTED from /home/parismita/AndroidStudioProjects/BOX2/app/src/main/AndroidManifest.xml
+uses-permission#android.permission.INTERNET
+ADDED from /home/parismita/AndroidStudioProjects/BOX2/app/src/main/AndroidManifest.xml:5:5-67
+	android:name
+		ADDED from /home/parismita/AndroidStudioProjects/BOX2/app/src/main/AndroidManifest.xml:5:22-64
+uses-permission#android.permission.WRITE_INTERNAL_STORAGE
+ADDED from /home/parismita/AndroidStudioProjects/BOX2/app/src/main/AndroidManifest.xml:6:5-81
+	android:name
+		ADDED from /home/parismita/AndroidStudioProjects/BOX2/app/src/main/AndroidManifest.xml:6:22-78
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from /home/parismita/AndroidStudioProjects/BOX2/app/src/main/AndroidManifest.xml:7:5-80
+	android:name
+		ADDED from /home/parismita/AndroidStudioProjects/BOX2/app/src/main/AndroidManifest.xml:7:22-78
+uses-permission#android.permission.RECORD_AUDIO
+ADDED from /home/parismita/AndroidStudioProjects/BOX2/app/src/main/AndroidManifest.xml:8:5-71
+	android:name
+		ADDED from /home/parismita/AndroidStudioProjects/BOX2/app/src/main/AndroidManifest.xml:8:22-68
+uses-feature#android.hardware.touchscreen
+ADDED from /home/parismita/AndroidStudioProjects/BOX2/app/src/main/AndroidManifest.xml:10:5-12:36
+	android:required
+		ADDED from /home/parismita/AndroidStudioProjects/BOX2/app/src/main/AndroidManifest.xml:12:9-33
+	android:name
+		ADDED from /home/parismita/AndroidStudioProjects/BOX2/app/src/main/AndroidManifest.xml:11:9-52
+uses-feature#android.software.leanback
+ADDED from /home/parismita/AndroidStudioProjects/BOX2/app/src/main/AndroidManifest.xml:13:5-15:35
+	android:required
+		ADDED from /home/parismita/AndroidStudioProjects/BOX2/app/src/main/AndroidManifest.xml:15:9-32
+	android:name
+		ADDED from /home/parismita/AndroidStudioProjects/BOX2/app/src/main/AndroidManifest.xml:14:9-49
+application
+ADDED from /home/parismita/AndroidStudioProjects/BOX2/app/src/main/AndroidManifest.xml:17:5-39:19
+MERGED from [com.android.support:leanback-v17:26.1.0] /home/parismita/.android/build-cache/fa2985359f47a626263097cb65a6fcac37f69f13/output/AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:recyclerview-v7:26.1.0] /home/parismita/.android/build-cache/6e2a2c9ecf8545424cee612747488700e9d3224a/output/AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:appcompat-v7:26.1.0] /home/parismita/.android/build-cache/9c2196c1912af5fed40362dc5cfad8708b2d9cbb/output/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-v4:26.1.0] /home/parismita/.android/build-cache/cebe1e2e1d757bd01873797aac5a23c919d79ab3/output/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-media-compat:26.1.0] /home/parismita/.android/build-cache/bbd5aafefd5ce86622260d5118007fa97fab899d/output/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-fragment:26.1.0] /home/parismita/.android/build-cache/334f339ccde1aee8d076084fb98d94016521e932/output/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-core-utils:26.1.0] /home/parismita/.android/build-cache/c59047293c28b3de5c2958f1c7badc8b13d53f69/output/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] /home/parismita/.android/build-cache/4c7127acb236120dded2d238864c69c3b1fd8b9a/output/AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:support-vector-drawable:26.1.0] /home/parismita/.android/build-cache/f768aece9af6bfef3443996de4ccf6736a2e88f9/output/AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:support-core-ui:26.1.0] /home/parismita/.android/build-cache/ee72a95ac16d1c375791554bf8637716db141e6e/output/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-compat:26.1.0] /home/parismita/.android/build-cache/a59fcc6fe131f540975f81c445d7be5f37fd0389/output/AndroidManifest.xml:25:5-29:19
+MERGED from [android.arch.lifecycle:runtime:1.0.0] /home/parismita/.android/build-cache/3f10e78d65c20a2cc4872e71d419d00f77ffa8af/output/AndroidManifest.xml:24:5-28:19
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] /home/parismita/.android/build-cache/899ca26a00caa5ac0b80b486200b3776ea6acbdc/output/AndroidManifest.xml:9:5-20
+MERGED from [com.android.volley:volley:1.1.0-rc1] /home/parismita/.android/build-cache/c448dac1e4a889246dfc11f71a979441e41bbf65/output/AndroidManifest.xml:9:5-20
+	android:label
+		ADDED from /home/parismita/AndroidStudioProjects/BOX2/app/src/main/AndroidManifest.xml:20:9-41
+	android:supportsRtl
+		ADDED from /home/parismita/AndroidStudioProjects/BOX2/app/src/main/AndroidManifest.xml:21:9-35
+	android:allowBackup
+		ADDED from /home/parismita/AndroidStudioProjects/BOX2/app/src/main/AndroidManifest.xml:18:9-35
+	android:icon
+		ADDED from /home/parismita/AndroidStudioProjects/BOX2/app/src/main/AndroidManifest.xml:19:9-43
+	android:theme
+		ADDED from /home/parismita/AndroidStudioProjects/BOX2/app/src/main/AndroidManifest.xml:22:9-46
+activity#sagarmusa.box2.MainActivity
+ADDED from /home/parismita/AndroidStudioProjects/BOX2/app/src/main/AndroidManifest.xml:23:9-35:20
+	android:screenOrientation
+		ADDED from /home/parismita/AndroidStudioProjects/BOX2/app/src/main/AndroidManifest.xml:29:13-50
+	android:label
+		ADDED from /home/parismita/AndroidStudioProjects/BOX2/app/src/main/AndroidManifest.xml:27:13-45
+	android:icon
+		ADDED from /home/parismita/AndroidStudioProjects/BOX2/app/src/main/AndroidManifest.xml:26:13-59
+	android:banner
+		ADDED from /home/parismita/AndroidStudioProjects/BOX2/app/src/main/AndroidManifest.xml:25:13-61
+	android:logo
+		ADDED from /home/parismita/AndroidStudioProjects/BOX2/app/src/main/AndroidManifest.xml:28:13-59
+	android:name
+		ADDED from /home/parismita/AndroidStudioProjects/BOX2/app/src/main/AndroidManifest.xml:24:13-41
+intent-filter#android.intent.action.MAIN+android.intent.category.LEANBACK_LAUNCHER
+ADDED from /home/parismita/AndroidStudioProjects/BOX2/app/src/main/AndroidManifest.xml:30:13-34:29
+action#android.intent.action.MAIN
+ADDED from /home/parismita/AndroidStudioProjects/BOX2/app/src/main/AndroidManifest.xml:31:17-69
+	android:name
+		ADDED from /home/parismita/AndroidStudioProjects/BOX2/app/src/main/AndroidManifest.xml:31:25-66
+category#android.intent.category.LEANBACK_LAUNCHER
+ADDED from /home/parismita/AndroidStudioProjects/BOX2/app/src/main/AndroidManifest.xml:33:17-86
+	android:name
+		ADDED from /home/parismita/AndroidStudioProjects/BOX2/app/src/main/AndroidManifest.xml:33:27-83
+activity#sagarmusa.box2.DetailsActivity
+ADDED from /home/parismita/AndroidStudioProjects/BOX2/app/src/main/AndroidManifest.xml:36:9-53
+	android:name
+		ADDED from /home/parismita/AndroidStudioProjects/BOX2/app/src/main/AndroidManifest.xml:36:19-50
+activity#sagarmusa.box2.PlaybackOverlayActivity
+ADDED from /home/parismita/AndroidStudioProjects/BOX2/app/src/main/AndroidManifest.xml:37:9-61
+	android:name
+		ADDED from /home/parismita/AndroidStudioProjects/BOX2/app/src/main/AndroidManifest.xml:37:19-58
+activity#sagarmusa.box2.BrowseErrorActivity
+ADDED from /home/parismita/AndroidStudioProjects/BOX2/app/src/main/AndroidManifest.xml:38:9-57
+	android:name
+		ADDED from /home/parismita/AndroidStudioProjects/BOX2/app/src/main/AndroidManifest.xml:38:19-54
+uses-sdk
+INJECTED from /home/parismita/AndroidStudioProjects/BOX2/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+MERGED from [com.android.support:leanback-v17:26.1.0] /home/parismita/.android/build-cache/fa2985359f47a626263097cb65a6fcac37f69f13/output/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:26.1.0] /home/parismita/.android/build-cache/6e2a2c9ecf8545424cee612747488700e9d3224a/output/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:26.1.0] /home/parismita/.android/build-cache/9c2196c1912af5fed40362dc5cfad8708b2d9cbb/output/AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:support-v4:26.1.0] /home/parismita/.android/build-cache/cebe1e2e1d757bd01873797aac5a23c919d79ab3/output/AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-media-compat:26.1.0] /home/parismita/.android/build-cache/bbd5aafefd5ce86622260d5118007fa97fab899d/output/AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-fragment:26.1.0] /home/parismita/.android/build-cache/334f339ccde1aee8d076084fb98d94016521e932/output/AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-core-utils:26.1.0] /home/parismita/.android/build-cache/c59047293c28b3de5c2958f1c7badc8b13d53f69/output/AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] /home/parismita/.android/build-cache/4c7127acb236120dded2d238864c69c3b1fd8b9a/output/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:26.1.0] /home/parismita/.android/build-cache/f768aece9af6bfef3443996de4ccf6736a2e88f9/output/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:26.1.0] /home/parismita/.android/build-cache/ee72a95ac16d1c375791554bf8637716db141e6e/output/AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-compat:26.1.0] /home/parismita/.android/build-cache/a59fcc6fe131f540975f81c445d7be5f37fd0389/output/AndroidManifest.xml:21:5-23:58
+MERGED from [android.arch.lifecycle:runtime:1.0.0] /home/parismita/.android/build-cache/3f10e78d65c20a2cc4872e71d419d00f77ffa8af/output/AndroidManifest.xml:20:5-22:41
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] /home/parismita/.android/build-cache/899ca26a00caa5ac0b80b486200b3776ea6acbdc/output/AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.volley:volley:1.1.0-rc1] /home/parismita/.android/build-cache/c448dac1e4a889246dfc11f71a979441e41bbf65/output/AndroidManifest.xml:7:5-43
+	tools:overrideLibrary
+		ADDED from [com.android.support:appcompat-v7:26.1.0] /home/parismita/.android/build-cache/9c2196c1912af5fed40362dc5cfad8708b2d9cbb/output/AndroidManifest.xml:23:9-75
+	android:targetSdkVersion
+		INJECTED from /home/parismita/AndroidStudioProjects/BOX2/app/src/main/AndroidManifest.xml
+		INJECTED from /home/parismita/AndroidStudioProjects/BOX2/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /home/parismita/AndroidStudioProjects/BOX2/app/src/main/AndroidManifest.xml
+		INJECTED from /home/parismita/AndroidStudioProjects/BOX2/app/src/main/AndroidManifest.xml
+meta-data#android.support.VERSION
+ADDED from [com.android.support:leanback-v17:26.1.0] /home/parismita/.android/build-cache/fa2985359f47a626263097cb65a6fcac37f69f13/output/AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:recyclerview-v7:26.1.0] /home/parismita/.android/build-cache/6e2a2c9ecf8545424cee612747488700e9d3224a/output/AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:appcompat-v7:26.1.0] /home/parismita/.android/build-cache/9c2196c1912af5fed40362dc5cfad8708b2d9cbb/output/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-v4:26.1.0] /home/parismita/.android/build-cache/cebe1e2e1d757bd01873797aac5a23c919d79ab3/output/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-media-compat:26.1.0] /home/parismita/.android/build-cache/bbd5aafefd5ce86622260d5118007fa97fab899d/output/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-fragment:26.1.0] /home/parismita/.android/build-cache/334f339ccde1aee8d076084fb98d94016521e932/output/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-core-utils:26.1.0] /home/parismita/.android/build-cache/c59047293c28b3de5c2958f1c7badc8b13d53f69/output/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] /home/parismita/.android/build-cache/4c7127acb236120dded2d238864c69c3b1fd8b9a/output/AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:support-vector-drawable:26.1.0] /home/parismita/.android/build-cache/f768aece9af6bfef3443996de4ccf6736a2e88f9/output/AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:support-core-ui:26.1.0] /home/parismita/.android/build-cache/ee72a95ac16d1c375791554bf8637716db141e6e/output/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-compat:26.1.0] /home/parismita/.android/build-cache/a59fcc6fe131f540975f81c445d7be5f37fd0389/output/AndroidManifest.xml:26:9-28:38
+	android:value
+		ADDED from [com.android.support:leanback-v17:26.1.0] /home/parismita/.android/build-cache/fa2985359f47a626263097cb65a6fcac37f69f13/output/AndroidManifest.xml:25:13-35
+	android:name
+		ADDED from [com.android.support:leanback-v17:26.1.0] /home/parismita/.android/build-cache/fa2985359f47a626263097cb65a6fcac37f69f13/output/AndroidManifest.xml:24:13-51
+meta-data#android.arch.lifecycle.VERSION
+ADDED from [android.arch.lifecycle:runtime:1.0.0] /home/parismita/.android/build-cache/3f10e78d65c20a2cc4872e71d419d00f77ffa8af/output/AndroidManifest.xml:25:9-27:47
+	android:value
+		ADDED from [android.arch.lifecycle:runtime:1.0.0] /home/parismita/.android/build-cache/3f10e78d65c20a2cc4872e71d419d00f77ffa8af/output/AndroidManifest.xml:27:13-44
+	android:name
+		ADDED from [android.arch.lifecycle:runtime:1.0.0] /home/parismita/.android/build-cache/3f10e78d65c20a2cc4872e71d419d00f77ffa8af/output/AndroidManifest.xml:26:13-58
